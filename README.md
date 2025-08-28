@@ -55,7 +55,7 @@ This result is highly competitive with published benchmarks and demonstrates the
 
 # 1. Clone the repository
 
-git clone [Your GitHub Repo URL]
+git clone https://github.com/Goodman-A87/Surgical-Tool-Recognition-YOLOv8.git
 cd surgical_Tool_Recognition
 
 # 2. Create and activate a virtual environment
