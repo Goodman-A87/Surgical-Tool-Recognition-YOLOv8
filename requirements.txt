@@ -1,0 +1,16 @@
+# In requirements.txt
+
+# --- Core ML & Computer Vision ---
+ultralytics
+opencv-python
+
+# --- Data Handling & Plotting ---
+pandas
+matplotlib
+PyYAML
+tqdm
+
+# --- Data Downloading ---
+synapseclient
+requests
+python-dotenv

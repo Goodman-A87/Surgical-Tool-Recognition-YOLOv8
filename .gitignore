@@ -1,0 +1,10 @@
+# In .gitignore
+/.venv/
+/data/
+/runs/
+/results/
+*.pt
+*.docx
+*.pdf
+.env
+__pycache__/
