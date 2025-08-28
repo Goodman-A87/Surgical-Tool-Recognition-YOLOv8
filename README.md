@@ -1,6 +1,6 @@
-======================================================================
+
 Automated Recognition of Surgical Instruments using YOLOv8
-======================================================================
+
 
 Author: Abraham Goodman
 Dissertation for: MSc Robotics and Automation, University of Salford
